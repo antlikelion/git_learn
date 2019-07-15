@@ -4,6 +4,6 @@ def add(a, b):
 def sub(a, b):
     return a-b
 
-def mul(a, b):
-    print('bye world')
-    return a * b
+def abb(c, d):
+    return c + d
+    
